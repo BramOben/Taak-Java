@@ -4,6 +4,7 @@
  */
 package be.inf1.tellerapp.model;
 
+//is kijken of die nest hier werkt
 /**
  *
  * @author LenovoTest
